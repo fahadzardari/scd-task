@@ -256,5 +256,5 @@ section {
 }
 
 .mobile-nav-active #header {
-  left: 0;
+  left: -300px;
 }
