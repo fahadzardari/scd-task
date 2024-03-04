@@ -19,8 +19,10 @@ Swiper.js\
 Typed.js
 
 # Git Process used
-First we create this repo and added all of the group members as collaborators, this was done to give each and everyone owner privileges.\
+First we create this repo and added all of the group members as collaborators, this was done to give each and everyone owner privileges.
 
-Every group member created branches for their features and upon completion a PR was created to merge all the changes with main branch.\
+Every group member created branches for their features and upon completion a PR was created to merge all the changes with main branch.
 
 All the common and important features of GIT have been utilized in this project i.e branching , stashing , merge conflict , collobaration. 
+
+(None of the branches used have been deleted)
